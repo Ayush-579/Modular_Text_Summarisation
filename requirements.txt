@@ -1,0 +1,13 @@
+transformers==4.40.0
+datasets==2.18.0
+evaluate==0.4.1
+rouge-score==0.1.2
+torch>=2.0.0
+scikit-learn
+pyyaml
+tqdm
+sentencepiece
+py7zr #wheel for samsum
+matplotlib
+seaborn 
+pandas
